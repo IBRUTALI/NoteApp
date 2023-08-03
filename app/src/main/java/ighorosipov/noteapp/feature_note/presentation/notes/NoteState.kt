@@ -1,6 +1,6 @@
 package ighorosipov.noteapp.feature_note.presentation.notes
 
-import android.provider.ContactsContract.CommonDataKinds.Note
+import ighorosipov.noteapp.feature_note.domain.model.Note
 import ighorosipov.noteapp.feature_note.domain.util.NoteOrder
 import ighorosipov.noteapp.feature_note.domain.util.OrderType
 
